@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Peoplerank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Peoplerank_jar</output-path>
+    <root id="archive" name="Peoplerank.jar">
+      <element id="module-output" name="Peoplerank" />
+      <element id="extracted-dir" path="$USER_HOME$/hadoop-2.7.3/share/hadoop/common/hadoop-nfs-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/hadoop-2.7.3/share/hadoop/common/hadoop-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
